@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
-public class click_and_initialize : MonoBehaviour {
+public class clickAndInitialize : MonoBehaviour {
 
     public Sprite[] spriteImg;
     
