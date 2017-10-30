@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class seaweed_grow : MonoBehaviour {
+public class seaweedGrow : MonoBehaviour {
     public Sprite[] spriteImg;
 
     int spriteIdx = 0;

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Click : MonoBehaviour
+public class recipeClick : MonoBehaviour
 {
 
     public GameObject infoIcon;

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
-public class GoToNextScene : MonoBehaviour {
+public class goToNextScene : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
